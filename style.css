@@ -1,0 +1,17 @@
+select{
+	width: 300px;
+	margin-left: 25em;
+	height: 35px;
+}
+
+
+h1{
+	text-align: center;
+    margin-top: 5em;
+    color: #ffffff;
+}
+
+
+body{
+	background: #cccccc;
+}
